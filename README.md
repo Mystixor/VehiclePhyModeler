@@ -16,3 +16,4 @@ The tool is EXTREMELY limited at the moment.
 
 # Building
 Oh boy. It won't be a simple drag 'n' drop, as I had to modify the GBX.NET library as well. You will find the file with the source.
+For building I use .net 8.0
