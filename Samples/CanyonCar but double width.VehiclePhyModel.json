@@ -1,0 +1,169 @@
+{
+  "Version": "0.0.1",
+  "BodySurfs": [
+    {
+      "Name": "BodySurf",
+      "Surface": {
+        "Position": {
+          "x": 0,
+          "y": 0.73,
+          "z": -0.16029581
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "w": 1
+        },
+        "Type": "Ellipsoid",
+        "Parameters": {
+          "x": 1.99045604,
+          "y": 0.616,
+          "z": 2
+        }
+      }
+    },
+    {
+      "Name": "BodySurf02",
+      "Surface": {
+        "Position": {
+          "x": 4.105453E-16,
+          "y": 0.63290876,
+          "z": -1.4143267
+        },
+        "Rotation": {
+          "x": 0.03419977,
+          "y": 1.115939E-08,
+          "z": -8.784347E-11,
+          "w": 0.99941504
+        },
+        "Type": "Ellipsoid",
+        "Parameters": {
+          "x": 1.0318038,
+          "y": 0.47499514,
+          "z": 0.7944284
+        }
+      }
+    },
+    {
+      "Name": "BodySurf01",
+      "Surface": {
+        "Position": {
+          "x": 0,
+          "y": 0.55,
+          "z": 1.4705734
+        },
+        "Rotation": {
+          "x": 0.043957025,
+          "y": 2.8043803E-28,
+          "z": -1.16191E-25,
+          "w": 0.9990335
+        },
+        "Type": "Ellipsoid",
+        "Parameters": {
+          "x": 0.9990025,
+          "y": 0.45,
+          "z": 0.9833234
+        }
+      }
+    }
+  ],
+  "WheelSurfs": [
+    {
+      "IsDriving": true,
+      "IsSteering": true,
+      "Name": "FLSurf",
+      "Surface": {
+        "Position": {
+          "x": 0.84010464,
+          "y": 0.354,
+          "z": 1.515
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "w": 1
+        },
+        "Type": "Ellipsoid",
+        "Parameters": {
+          "x": 0.183,
+          "y": 0.364,
+          "z": 0.364
+        }
+      }
+    },
+    {
+      "IsDriving": true,
+      "IsSteering": true,
+      "Name": "FRSurf",
+      "Surface": {
+        "Position": {
+          "x": -0.8401046,
+          "y": 0.35399997,
+          "z": 1.515
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "w": 1
+        },
+        "Type": "Ellipsoid",
+        "Parameters": {
+          "x": 0.183,
+          "y": 0.364,
+          "z": 0.364
+        }
+      }
+    },
+    {
+      "IsDriving": true,
+      "IsSteering": false,
+      "Name": "RRSurf",
+      "Surface": {
+        "Position": {
+          "x": -0.87710476,
+          "y": 0.35399997,
+          "z": -1.304
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "w": 1
+        },
+        "Type": "Ellipsoid",
+        "Parameters": {
+          "x": 0.183,
+          "y": 0.364,
+          "z": 0.364
+        }
+      }
+    },
+    {
+      "IsDriving": true,
+      "IsSteering": false,
+      "Name": "RLSurf",
+      "Surface": {
+        "Position": {
+          "x": 0.87710476,
+          "y": 0.354,
+          "z": -1.304
+        },
+        "Rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "w": 1
+        },
+        "Type": "Ellipsoid",
+        "Parameters": {
+          "x": 0.183,
+          "y": 0.364,
+          "z": 0.364
+        }
+      }
+    }
+  ]
+}
