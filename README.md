@@ -13,3 +13,6 @@ The tool is EXTREMELY limited at the moment.
 2. The `Type` parameter of the collision elements can only be set to `Ellipsoid`, which is a sphere with a radius of `1.0` that gets scaled on each axis by the values given in `Parameters`. This should be sufficient for nearly every car that exists or which you would like to create, but might change in the future.
 3. The wheels are not yet editable.
 4. Simply extracting and reimporting the hitbox of an original TM vehicle will likely break "Press Forward" maps due to floating point precision errors, however driving the car normally should basically feel no different to before. This will probably not change until after a major revamp of the tool set.
+
+# Building
+Oh boy. It won't be a simple drag 'n' drop, as I had to modify the GBX.NET library as well. You will find the file with the source.
