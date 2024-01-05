@@ -1,0 +1,116 @@
+{
+  "Version": "0.0.2",
+  "Chassis": {
+    "GroundHeight": -0.011500001,
+    "AxleFront": {
+      "PositionZ": 1.782089,
+      "WheelPositionX": 0.863012,
+      "WheelRadius": 0.364,
+      "WheelWidthHalf": 0.182,
+      "FlagsLeft": {
+        "IsDriving": true,
+        "IsSteering": true
+      },
+      "FlagsRight": {
+        "IsDriving": true,
+        "IsSteering": true
+      }
+    },
+    "AxleRear": {
+      "PositionZ": -1.205502,
+      "WheelPositionX": 0.885002,
+      "WheelRadius": 0.364,
+      "WheelWidthHalf": 0.182,
+      "FlagsLeft": {
+        "IsDriving": true,
+        "IsSteering": false
+      },
+      "FlagsRight": {
+        "IsDriving": true,
+        "IsSteering": false
+      }
+    }
+  },
+  "BodySurfs": [
+    {
+      "Name": "BodySurf",
+      "Position": {
+        "x": 0,
+        "y": 0.471253,
+        "z": 0.219106
+      },
+      "Rotation": {
+        "x": 0.029806247,
+        "y": 0,
+        "z": 0,
+        "w": 0.99955577
+      },
+      "Type": "Ellipsoid",
+      "Parameters": {
+        "x": 0.439118,
+        "y": 0.362,
+        "z": 1.901528
+      }
+    },
+    {
+      "Name": "BodySurf01",
+      "Position": {
+        "x": 0,
+        "y": 0.448782,
+        "z": -0.20792
+      },
+      "Rotation": {
+        "x": 0.022863986,
+        "y": 0,
+        "z": 0,
+        "w": 0.9997387
+      },
+      "Type": "Ellipsoid",
+      "Parameters": {
+        "x": 0.968297,
+        "y": 0.362741,
+        "z": 1.682276
+      }
+    },
+    {
+      "Name": "BodySurf02",
+      "Position": {
+        "x": 0,
+        "y": 0.652812,
+        "z": -0.89763
+      },
+      "Rotation": {
+        "x": 0.023450455,
+        "y": 0,
+        "z": 0,
+        "w": 0.99972504
+      },
+      "Type": "Ellipsoid",
+      "Parameters": {
+        "x": 1.020922,
+        "y": 0.515218,
+        "z": 1.038007
+      }
+    },
+    {
+      "Name": "BodySurf04",
+      "Position": {
+        "x": -0.015532,
+        "y": 0.363252,
+        "z": 1.75357
+      },
+      "Rotation": {
+        "x": 0.5,
+        "y": -0.5,
+        "z": 0.5,
+        "w": 0.5
+      },
+      "Type": "Ellipsoid",
+      "Parameters": {
+        "x": 0.384841,
+        "y": 0.905323,
+        "z": 0.283418
+      }
+    }
+  ]
+}

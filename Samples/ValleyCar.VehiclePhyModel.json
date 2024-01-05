@@ -1,0 +1,136 @@
+{
+  "Version": "0.0.2",
+  "Chassis": {
+    "GroundHeight": -0.00999999,
+    "AxleFront": {
+      "PositionZ": 1.37,
+      "WheelPositionX": 0.95,
+      "WheelRadius": 0.364,
+      "WheelWidthHalf": 0.183,
+      "FlagsLeft": {
+        "IsDriving": true,
+        "IsSteering": true
+      },
+      "FlagsRight": {
+        "IsDriving": true,
+        "IsSteering": true
+      }
+    },
+    "AxleRear": {
+      "PositionZ": -1.37,
+      "WheelPositionX": 0.97,
+      "WheelRadius": 0.364,
+      "WheelWidthHalf": 0.183,
+      "FlagsLeft": {
+        "IsDriving": false,
+        "IsSteering": false
+      },
+      "FlagsRight": {
+        "IsDriving": false,
+        "IsSteering": false
+      }
+    }
+  },
+  "BodySurfs": [
+    {
+      "Name": "BodySurf",
+      "Position": {
+        "x": 0,
+        "y": 0.72,
+        "z": 0.1
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "Type": "Ellipsoid",
+      "Parameters": {
+        "x": 1.05,
+        "y": 0.58,
+        "z": 2
+      }
+    },
+    {
+      "Name": "BodySurf02",
+      "Position": {
+        "x": 4.105453E-16,
+        "y": 0.63,
+        "z": -1.35
+      },
+      "Rotation": {
+        "x": 0.03419977,
+        "y": 1.115939E-08,
+        "z": -8.784347E-11,
+        "w": 0.99941504
+      },
+      "Type": "Ellipsoid",
+      "Parameters": {
+        "x": 1.0318038,
+        "y": 0.47499514,
+        "z": 0.7944284
+      }
+    },
+    {
+      "Name": "BodySurf01",
+      "Position": {
+        "x": 0,
+        "y": 0.55,
+        "z": 1.3
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "Type": "Ellipsoid",
+      "Parameters": {
+        "x": 0.9990025,
+        "y": 0.40850466,
+        "z": 0.9833234
+      }
+    },
+    {
+      "Name": "BodySurf03",
+      "Position": {
+        "x": 0,
+        "y": 0.45,
+        "z": 1.75
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "Type": "Ellipsoid",
+      "Parameters": {
+        "x": 0.999,
+        "y": 0.35,
+        "z": 0.5
+      }
+    },
+    {
+      "Name": "BodySurf04",
+      "Position": {
+        "x": 0,
+        "y": 1.05,
+        "z": -0.5
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "Type": "Ellipsoid",
+      "Parameters": {
+        "x": 0.9,
+        "y": 0.5,
+        "z": 1.5
+      }
+    }
+  ]
+}
