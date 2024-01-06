@@ -1,5 +1,5 @@
-# CarCollisionCustomizer
-CarCollisionCustomizer is a tool set to modify the collision and part of the physics of the Trackmania vehicles.
+# VehiclePhyModeler
+VehiclePhyModeler is a tool set to modify the collision and part of the physics of the Trackmania vehicles.
 # How to use
 1. Drag a `VehiclePhyModel.Gbx` file onto the executable, the hitbox will be extracted to a human-readable JSON file.
 2. Edit the JSON, or simply keep everything as it is.
