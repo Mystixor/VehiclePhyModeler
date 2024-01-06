@@ -1,5 +1,5 @@
 # VehiclePhyModeler
-VehiclePhyModeler is the first tool in the CarCustomizer tool set, and allows modification of the collision and wheels of a Trackmania car.
+VehiclePhyModeler is the first tool in the CarCustomizer tool set, and allows modification of the hitbox and wheels of a Trackmania car.
 # How to use
 1. Drag a `VehiclePhyModel.Gbx` file onto the executable, the hitbox will be extracted to a human-readable JSON file.
 2. Edit the JSON, or simply keep everything as it is.
